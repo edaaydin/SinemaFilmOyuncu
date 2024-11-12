@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35417.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeyazPerde", "BeyazPerde\BeyazPerde.csproj", "{81E9578D-30AF-4246-ADFA-2B92F70C15DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeyazPerdeForm", "BeyazPerdeForm\BeyazPerdeForm.csproj", "{CA5E1250-5F22-4630-BE59-8CADD3FF94BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E9578D-30AF-4246-ADFA-2B92F70C15DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E9578D-30AF-4246-ADFA-2B92F70C15DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E9578D-30AF-4246-ADFA-2B92F70C15DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E9578D-30AF-4246-ADFA-2B92F70C15DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA5E1250-5F22-4630-BE59-8CADD3FF94BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5E1250-5F22-4630-BE59-8CADD3FF94BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5E1250-5F22-4630-BE59-8CADD3FF94BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5E1250-5F22-4630-BE59-8CADD3FF94BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
